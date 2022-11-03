@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/okbob/dbms_sql.svg?branch=master)](https://travis-ci.org/okbob/dbms_sql)
 
+**This project was merged to orafce already.**
+
 # DBMS_SQL
 
 This is implementation of Oracle's API of package DBMS_SQL
